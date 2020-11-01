@@ -20,14 +20,6 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", {
   useFindAndModify: false
 });
 
-db.Workout.create( { name: "Exercises" })
-  .then(dbWorkout => {
-    console.log(dbWorkout);
-  })
-  .catch(({message}) => {
-    console.log(message);
-  });
-
 // routes
 app.use(require("./routes/api.js"));
 
