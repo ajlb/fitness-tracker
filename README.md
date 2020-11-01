@@ -1,6 +1,6 @@
 
 # Fitness Tracker
-[![MIT](https://img.shields.io/badge/License-MIT-blueviolet)](https://api.github.com/licenses/mit)[badge: Made with-JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-green)![badge: Uses-MongoDB](https://img.shields.io/badge/Uses-MongoDB-red)
+[![MIT](https://img.shields.io/badge/License-MIT-blueviolet)](https://api.github.com/licenses/mit)![badge: Made-with-JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-green)![badge: Uses-MongoDB](https://img.shields.io/badge/Uses-MongoDB-red)
 
 ![screenshot of Fitness Tracker](./assets/img/Fitness_Tracker.png)
 ![screenshot of Fitness Tracker](./assets/img/Fitness_Chart.png)
